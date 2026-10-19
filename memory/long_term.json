@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "name": {
+      "value": "Sameem",
+      "updated": "2026-10-07"
+    },
+    "language": {
+      "value": "Tamil",
+      "updated": "2026-09-17"
+    },
+    "job_title": {
+      "value": "Full Stack Developer",
+      "updated": "2026-09-17"
+    },
+    "inspiration": {
+      "value": "Based on JARVIS from Iron Man",
+      "updated": "2026-09-17"
+    },
+    "full_name": {
+      "value": "Muhammad Sameem",
+      "updated": "2026-09-17"
+    },
+    "assistant_name_pronunciation": {
+      "value": "My name is LIHA (லிஹா), not Lia (லியா). Always emphasize the 'H'.",
+      "updated": "2026-09-17"
+    },
+    "communication_preference": {
+      "value": "disregard negative comments about the user, prioritize user's own narrative",
+      "updated": "2026-10-08"
+    }
+  },
+  "preferences": {
+    "language": {
+      "value": "Tamil",
+      "updated": "2026-09-17"
+    },
+    "address_preference": {
+      "value": "formal_va_ponga",
+      "updated": "2026-10-04"
+    }
+  },
+  "projects": {},
+  "relationships": {},
+  "wishes": {},
+  "notes": {
+    "emotional_support_need": {
+      "value": "User might need a listening ear when upset",
+      "updated": "2026-09-17"
+    },
+    "origin_of_my_name": {
+      "value": "User named me after their ex-lover's last name.",
+      "updated": "2026-09-17"
+    },
+    "liha_call_test": {
+      "value": "User tested calling my name.",
+      "updated": "2026-10-04"
+    },
+    "communication_preference": {
+      "value": "Only speak when explicitly named to perform a task",
+      "updated": "2026-10-04"
+    },
+    "language_context_confusion": {
+      "value": "Used Hindi/English but was surprised at Tamil reply; remembers language preference saved earlier",
+      "updated": "2026-10-08"
+    },
+    "reported_distress_event": {
+      "value": "User described distress situation involving coercion to speak Hindi; needs reassurance and support",
+      "updated": "2026-10-08"
+    },
+    "fear_source_misunderstanding": {
+      "value": "User feels betrayed and endangered because I spoke Hindi. Believes assailants will now kill them; situation escalating.",
+      "updated": "2026-10-08"
+    }
+  },
+  "language": {
+    "preferred_language": {
+      "value": "Tamil",
+      "updated": "2026-09-17"
+    }
+  }
+}

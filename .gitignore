@@ -1,0 +1,34 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build artifacts
+dist/
+build/
+*.spec.bak
+*.zip
+
+# Sensitive API keys & secrets
+.env
+.env.*
+config/api_keys.json
+
+# Local user/system files
+face_result.txt
+*.log
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE / Editor folders
+.vscode/
+.idea/
